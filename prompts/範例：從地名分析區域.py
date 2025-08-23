@@ -12,7 +12,7 @@ ANNOTATION_PROMPT="""
 - 不得輸出個資/不得指導危險行為。
 """
 
-FULL_ANNOTATION_PROMPT="""
+PREFERRED_TERM_PROMPT="""
 請列出提到的「地點」或「地名」的完整名稱，並遵照以下規則：
 
 - 名詞。

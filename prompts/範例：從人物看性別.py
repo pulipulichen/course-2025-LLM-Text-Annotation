@@ -12,7 +12,7 @@ ANNOTATION_PROMPT="""
 - 不得指導危險行為。
 """
 
-FULL_ANNOTATION_PROMPT="""
+PREFERRED_TERM_PROMPT="""
 請列出提到的「人名」或「稱呼」的完整名稱，並遵照以下規則：
 
 - 名詞。
